@@ -1,0 +1,424 @@
+{
+  "album": [
+    {
+      "id": "1",
+      "albumTitle": "A",
+      "albumImage": [
+        4,
+        5,
+        67,
+        89
+      ],
+      "album": [
+        {
+          "id": "2",
+          "albumTitle": "B",
+          "albumImage": [
+            1,
+            2,
+            3
+          ],
+          "album": [
+            {
+              "id": "3",
+              "albumTitle": "C",
+              "albumImage": [
+                1,
+                2,
+                5,
+                67,
+                89
+              ],
+              "album": []
+            },
+            {
+              "id": "4",
+              "albumTitle": "D",
+              "albumImage": [
+                1,
+                2,
+                67,
+                89
+              ],
+              "album": []
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "albumTitle": "E",
+          "albumImage": [
+            1,
+            4,
+            5,
+            67,
+            89
+          ],
+          "album": [
+            {
+              "id": "6",
+              "albumTitle": "F",
+              "albumImage": [
+                5,
+                67,
+                89
+              ],
+              "album": []
+            },
+            {
+              "id": "7",
+              "albumTitle": "G",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "album": []
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "albumTitle": "H",
+          "albumImage": [
+            1,
+            5,
+            67,
+            89
+          ],
+          "album": []
+        },
+        {
+          "id": "9",
+          "albumTitle": "I",
+          "albumImage": [
+            4,
+            5,
+            67,
+            89
+          ],
+          "album": [
+            {
+              "id": "10",
+              "albumTitle": "J",
+              "albumImage": [
+                1,
+                2,
+                3,
+                89
+              ],
+              "album": []
+            },
+            {
+              "id": "11",
+              "albumTitle": "K",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "album": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "albumTitle": "L",
+      "albumImage": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        67,
+        89
+      ],
+      "album": [
+        {
+          "id": "13",
+          "albumTitle": "M",
+          "albumImage": [
+            89
+          ],
+          "album": [
+            {
+              "id": "14",
+              "albumTitle": "N",
+              "albumImage": [
+                1
+              ],
+              "album": []
+            },
+            {
+              "id": "15",
+              "albumTitle": "O",
+              "albumImage": [],
+              "album": []
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "albumTitle": "P",
+          "albumImage": [
+            1,
+            2,
+            67,
+            89
+          ],
+          "album": [
+            {
+              "id": "17",
+              "albumTitle": "Q",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                67,
+                89
+              ],
+              "album": []
+            },
+            {
+              "id": "18",
+              "albumTitle": "S",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                67,
+                89
+              ],
+              "album": []
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "albumTitle": "R",
+          "albumImage": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            67,
+            89
+          ],
+          "album": []
+        },
+        {
+          "id": "20",
+          "albumTitle": "I",
+          "albumImage": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            67,
+            89
+          ],
+          "album": [
+            {
+              "id": "21",
+              "albumTitle": "T",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                67,
+                89
+              ],
+              "album": [
+                {
+                  "id": "22",
+                  "albumTitle": "U",
+                  "albumImage": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    67,
+                    89
+                  ],
+                  "album": [
+                    {
+                      "id": "23",
+                      "albumTitle": "V",
+                      "albumImage": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        67,
+                        89
+                      ],
+                      "album": [
+                        {
+                          "id": "24",
+                          "albumTitle": "W",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        },
+                        {
+                          "id": "25",
+                          "albumTitle": "X",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "26",
+                      "albumTitle": "Y",
+                      "albumImage": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        67,
+                        89
+                      ],
+                      "album": [
+                        {
+                          "id": "27",
+                          "albumTitle": "Z",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        },
+                        {
+                          "id": "28",
+                          "albumTitle": "AA",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "29",
+                      "albumTitle": "AB",
+                      "albumImage": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        67,
+                        89
+                      ],
+                      "album": []
+                    },
+                    {
+                      "id": "30",
+                      "albumTitle": "AC",
+                      "albumImage": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        67,
+                        89
+                      ],
+                      "album": [
+                        {
+                          "id": "31",
+                          "albumTitle": "AD",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        },
+                        {
+                          "id": "32",
+                          "albumTitle": "AE",
+                          "albumImage": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            67,
+                            89
+                          ],
+                          "album": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "33",
+              "albumTitle": "AF",
+              "albumImage": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                67,
+                89
+              ],
+              "album": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
